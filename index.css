@@ -22,3 +22,18 @@ body {
   display: flex;
   gap: 1rem;
 }
+
+.me-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+.me-container > img {
+  width: 300px;
+}
+
+.text {
+  
+}
