@@ -108,3 +108,10 @@ body {
   padding: 3rem;
     background-image: linear-gradient(#fff, #eee);
 }
+
+.project-container {
+  width: 270px;
+  height: 330px;
+  border: solid 1px #000;
+  background-color: white;
+}
